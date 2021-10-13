@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/WebDeveloperMithlesh/Reactapp.io/static/css/main.70b36451.chunk.css",
+    "main.js": "/WebDeveloperMithlesh/Reactapp.io/static/js/main.53c5b244.chunk.js",
+    "main.js.map": "/WebDeveloperMithlesh/Reactapp.io/static/js/main.53c5b244.chunk.js.map",
+    "runtime-main.js": "/WebDeveloperMithlesh/Reactapp.io/static/js/runtime-main.94c2b68f.js",
+    "runtime-main.js.map": "/WebDeveloperMithlesh/Reactapp.io/static/js/runtime-main.94c2b68f.js.map",
+    "static/js/2.42871be6.chunk.js": "/WebDeveloperMithlesh/Reactapp.io/static/js/2.42871be6.chunk.js",
+    "static/js/2.42871be6.chunk.js.map": "/WebDeveloperMithlesh/Reactapp.io/static/js/2.42871be6.chunk.js.map",
+    "static/js/3.9d47cf33.chunk.js": "/WebDeveloperMithlesh/Reactapp.io/static/js/3.9d47cf33.chunk.js",
+    "static/js/3.9d47cf33.chunk.js.map": "/WebDeveloperMithlesh/Reactapp.io/static/js/3.9d47cf33.chunk.js.map",
+    "index.html": "/WebDeveloperMithlesh/Reactapp.io/index.html",
+    "static/css/main.70b36451.chunk.css.map": "/WebDeveloperMithlesh/Reactapp.io/static/css/main.70b36451.chunk.css.map",
+    "static/js/2.42871be6.chunk.js.LICENSE.txt": "/WebDeveloperMithlesh/Reactapp.io/static/js/2.42871be6.chunk.js.LICENSE.txt",
+    "static/media/BAYC.71eda7f0.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/BAYC.71eda7f0.png",
+    "static/media/index.css": "/WebDeveloperMithlesh/Reactapp.io/static/media/Montserrat-SemiBoldItalic.b0400063.ttf",
+    "static/media/ape1.34f03422.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/ape1.34f03422.png",
+    "static/media/ape2.617dc537.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/ape2.617dc537.png",
+    "static/media/ape3.557cd3e7.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/ape3.557cd3e7.png",
+    "static/media/ape4.4e095133.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/ape4.4e095133.png",
+    "static/media/bayc-footer.17271247.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/bayc-footer.17271247.png",
+    "static/media/bayc-mutant-hero.906ca9b5.jpg": "/WebDeveloperMithlesh/Reactapp.io/static/media/bayc-mutant-hero.906ca9b5.jpg",
+    "static/media/garga.34ae2537.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/garga.34ae2537.png",
+    "static/media/gordy.69c55c41.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/gordy.69c55c41.png",
+    "static/media/icon3.e9561397.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/icon3.e9561397.png",
+    "static/media/icon4.dec7cd5b.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/icon4.dec7cd5b.png",
+    "static/media/icon5.b0ada717.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/icon5.b0ada717.png",
+    "static/media/mystery-ape.90c29385.gif": "/WebDeveloperMithlesh/Reactapp.io/static/media/mystery-ape.90c29385.gif",
+    "static/media/sass.72e9f9ba.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/sass.72e9f9ba.png",
+    "static/media/tomato.75730a4d.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/tomato.75730a4d.png",
+    "static/media/updatedlogo.32e5c454.png": "/WebDeveloperMithlesh/Reactapp.io/static/media/updatedlogo.32e5c454.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94c2b68f.js",
+    "static/js/2.42871be6.chunk.js",
+    "static/css/main.70b36451.chunk.css",
+    "static/js/main.53c5b244.chunk.js"
+  ]
+}
